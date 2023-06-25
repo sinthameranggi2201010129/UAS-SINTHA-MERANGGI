@@ -1,0 +1,4 @@
+pada zaman sekarang perkembangan teknologi semakin pesat, perkembangan aplikasi yang dapat membantu manusia juga semakin 
+banyak salah satunya aplikasi ramalan cuaca hari ini, aplikasi yang sangat bermanfaat dan dapat membantu kita untuk mengetahui cuaca hari ini.
+disini saya membuat aplikasi ramalan cuaca dengan memanfaatkan API Weather yang dapat membantu kita untuk mengetahui bagaimana cuaca hari ini.
+logika dari aplikasi ramalan cuaca yang saya buat adalah dapat menampilkan suhu dan cuaca hari ini dengan mengetikan nama wilayahnya saja
